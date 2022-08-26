@@ -1,4 +1,5 @@
 # Bird Species Classification - Convolutional Neural Nets
+See the full code [here](notebook.ipynb)  
 Presentation date: Aug 3, 2022  
 Collaborators: [Zeinab Zeinab Masoomikhanghah](https://github.com/zmasoomi), [Mark-Anthony Recto](https://github.com/markrecto)
 
