@@ -3,7 +3,7 @@ See the full code [here](notebook.ipynb)
 Presentation date: Aug 3, 2022  
 Collaborators: [Zeinab Zeinab Masoomikhanghah](https://github.com/zmasoomi), [Mark-Anthony Recto](https://github.com/markrecto)
 
-In this group project, we looked at applying convolutional neural networks to classifiation of bird species. We used [this](https://www.kaggle.com/gpiosenka/100-bird-species) dataset from Kaggle and limited the training to 15 specific bird species. 
+In this group project, we looked at applying convolutional neural networks to classification of bird species. We used [this](https://www.kaggle.com/gpiosenka/100-bird-species) dataset from Kaggle and limited the training to 15 specific bird species. 
 
 ### Model Designs
 
